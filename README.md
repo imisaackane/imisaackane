@@ -1,3 +1,3 @@
-Hello and thank you for viewing my page! I'm currently working on making a website and email server to aid in a soon-to-be job search.
+Hello and thank you for viewing my page! I'm currently working on various projects with no concrete development plans or schedules.
 
-Feel free to look around in the meantime.
+Feel free to look around!
